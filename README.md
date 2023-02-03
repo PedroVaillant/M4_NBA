@@ -3,7 +3,7 @@
 <h1>Script de Consulta</h1>
 <li>
 <ul>Qual equipe que ganhou mais partidas na temporada 2020? </ul>
-<p>SELECT * FROM vinte ORDER BY W ASC LIMIT 1;</p>
+<i>SELECT * FROM vinte ORDER BY W ASC LIMIT 1;</i>
 <ul>Qual equipe que perdeu mais partidas na temporada 2020? </ul>
 <p>SELECT * FROM vinte ORDER BY L ASC LIMIT 1;</p>
 <ul>Quais times fizeram menos pontos em 2020?</ul>

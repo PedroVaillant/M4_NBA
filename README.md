@@ -1,5 +1,13 @@
 # M4_NBA
 
+<h1>Script de criação </h1>
+<li>Criar tabela</li>
+  <ul>Create database NBA</ul>
+<li>Importando tabela</li>
+<ul>1 - Abra o XAMPP</ul>
+<ul>2 - Abre o phpadmin</ul>
+<ul>3 - Importe o arquivo cls</ul>
+
 <h1>Script de Consulta</h1>
 
 <li>Qual equipe que ganhou mais partidas na temporada 2020? </li>

@@ -1,5 +1,8 @@
 # M4_NBA
 
+<h1>Objetivo do projeto</h1>
+<p>Motamos um dashboard, a partir da análise da dados e das perguntas elaboradas pelo nosso grupo. O dashboard foi feito com base no <b>conjunto de dados escolhidos e  oferecidos pela Resilia</b>, a fim de realizar uma apresentação com a exploração dos dados.</p>
+
 <h1>Script de criação </h1>
 <li>Criar tabela</li>
   <ul>Create database NBA</ul>

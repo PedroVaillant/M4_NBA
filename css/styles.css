@@ -15,25 +15,12 @@ nav {
   width: 100%;
 }
 
-/* footer {
-  background-color: black;
-  width: 100%;
-} */
-
-li {
-  padding: 50px;
-}
-
-.lidados {
-  padding: 15px;
-}
-
 .perguntas h2 {
   font-weight: bolder;
   text-transform: uppercase;
   text-align: justify;
   text-align: center;
-  color: yellow;
+  color: white;
 }
 
 .perguntas img {
@@ -45,8 +32,7 @@ li {
 .pergunta1,
 .pergunta2,
 .pergunta3,
-.pergunta4,
-.pergunta5 {
+.pergunta4 {
   margin-top: 100px;
   margin-bottom: 100px;
 }
@@ -89,5 +75,4 @@ li {
   background: #2dc3ff;
   box-shadow: 0 0 0 10px #2dc3ff44, 0 0 50px #2dc3ff, 0 0 100px #2dc3ff;
 }
-
 /* LUCAS APAGAR */

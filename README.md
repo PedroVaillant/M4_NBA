@@ -9,7 +9,8 @@
 <li>Importando tabela</li>
 <ul>1 - Abra o XAMPP</ul>
 <ul>2 - Abre o phpadmin</ul>
-<ul>3 - Importe o arquivo <b>banco_vinte.cls</b></ul>
+<ul>3 - Importe o arquivo <b>vinte.cls</b></ul>
+<p><i>OBS: vinte se refere à todas as partidas acontecidas no ano de 2020</i></p>
 <ul>4- No final, clique na opção que diz que o gráfico já tem colunas </ul>
 
 <h1>Script de Consulta</h1>

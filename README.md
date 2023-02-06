@@ -9,7 +9,8 @@
 <li>Importando tabela</li>
 <ul>1 - Abra o XAMPP</ul>
 <ul>2 - Abre o phpadmin</ul>
-<ul>3 - Importe o arquivo cls</ul>
+<ul>3 - Importe o arquivo <b>cls " "</b></ul>
+<ul>4- No final, clique na opção que diz que o gráfico já tem colunas </ul>
 
 <h1>Script de Consulta</h1>
 

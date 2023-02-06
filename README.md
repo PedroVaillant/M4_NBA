@@ -28,5 +28,7 @@
 <li>Quantas partidas o time Milwaukee fez em 2020? </li>
 <ul>select count(SEASON_ID) from vinte where TEAM = 'Milwaukee';</ul>
 
+<div align="center" style="display: inline_block">
 <h1> Modelagem dos Dados</h1>
 <img width="600px" height="300px" src="./bancoDeDados/modelagemDados.jpg">
+</div>

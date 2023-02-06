@@ -28,4 +28,4 @@
 <ul>select count(SEASON_ID) from vinte where TEAM = 'Milwaukee';</ul>
 
 <h1> Modelagem dos Dados</h1>
-<img width="600px" height="300px" src="./Banco de Dados/Modelagem de dados.jpeg">
+<img width="600px" height="300px" src="./bancoDeDados/modelagemDados.jpg">

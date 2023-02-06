@@ -1,0 +1,10 @@
+127.0.0.1/nba/vinte/		http://localhost/phpmyadmin/index.php?route=/table/sql&db=nba&table=vinte
+
+   A mostrar registos de 0 -  0 (1 total, A consulta demorou 0,0084 segundos.) [W: 52... - 52...]
+
+
+SELECT * FROM vinte ORDER BY W DESC LIMIT 1;
+
+
+
+1610612749	Warriors	0	22019	2020-03-01	East	Milwaukee	60	52	8	867	27-3	25-5	

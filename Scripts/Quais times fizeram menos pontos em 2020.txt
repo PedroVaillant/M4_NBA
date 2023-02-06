@@ -1,0 +1,34 @@
+127.0.0.1/nba/vinte/		http://localhost/phpmyadmin/index.php?route=/table/sql&db=nba&table=vinte
+
+   A mostrar registos de 0 - 24 (3960 total, A consulta demorou 0,0110 segundos.) [G: 0... - 0...]
+
+
+SELECT * FROM `vinte` ORDER BY G ASC;
+
+
+TEAM_ID	NICKNAME	LEAGUE_ID	SEASON_ID	STANDINGSDATE	CONFERENCE	TEAM	G   	W	L	W_PCT	HOME_RECORD	ROAD_RECORD	
+1610612753	Warriors	0	22019	2019-10-22	East	Orlando	0	0	0	0.0	0-0	0-0	
+1610612759	Warriors	0	22019	2019-10-22	West	San Antonio	0	0	0	0.0	0-0	0-0	
+1610612745	Warriors	0	22019	2019-10-22	West	Houston	0	0	0	0.0	0-0	0-0	
+1610612745	Warriors	0	22019	2019-10-23	West	Houston	0	0	0	0.0	0-0	0-0	
+1610612755	Warriors	0	22019	2019-10-22	East	Philadelphia	0	0	0	0.0	0-0	0-0	
+1610612754	Warriors	0	22019	2019-10-22	East	Indiana	0	0	0	0.0	0-0	0-0	
+1610612738	Celtics	0	22019	2019-10-22	East	Boston	0	0	0	0.0	0-0	0-0	
+1610612760	Warriors	0	22019	2019-10-22	West	Oklahoma City	0	0	0	0.0	0-0	0-0	
+1610612750	Warriors	0	22019	2019-10-22	West	Minnesota	0	0	0	0.0	0-0	0-0	
+1610612749	Warriors	0	22019	2019-10-23	East	Milwaukee	0	0	0	0.0	0-0	0-0	
+1610612766	Warriors	0	22019	2019-10-22	East	Charlotte	0	0	0	0.0	0-0	0-0	
+1610612742	Mavericks	0	22019	2019-10-22	West	Dallas	0	0	0	0.0	0-0	0-0	
+1610612744	Warriors	0	22019	2019-10-23	West	Golden State	0	0	0	0.0	0-0	0-0	
+1610612757	Warriors	0	22019	2019-10-22	West	Portland	0	0	0	0.0	0-0	0-0	
+1610612743	Nuggets	0	22019	2019-10-22	West	Denver	0	0	0	0.0	0-0	0-0	
+1610612758	Warriors	0	22019	2019-10-22	West	Sacramento	0	0	0	0.0	0-0	0-0	
+1610612748	Warriors	0	22019	2019-10-22	East	Miami	0	0	0	0.0	0-0	0-0	
+1610612756	Warriors	0	22019	2019-10-22	West	Phoenix	0	0	0	0.0	0-0	0-0	
+1610612744	Warriors	0	22019	2019-10-22	West	Golden State	0	0	0	0.0	0-0	0-0	
+1610612752	Warriors	0	22019	2019-10-22	East	New York	0	0	0	0.0	0-0	0-0	
+1610612737	Hawks	0	22019	2019-10-22	East	Atlanta	0	0	0	0.0	0-0	0-0	
+1610612741	Bulls	0	22019	2019-10-22	East	Chicago	0	0	0	0.0	0-0	0-0	
+1610612737	Hawks	0	22019	2019-10-23	East	Atlanta	0	0	0	0.0	0-0	0-0	
+1610612739	Cavaliers	0	22019	2019-10-22	East	Cleveland	0	0	0	0.0	0-0	0-0	
+1610612749	Warriors	0	22019	2019-10-22	East	Milwaukee	0	0	0	0.0	0-0	0-0	

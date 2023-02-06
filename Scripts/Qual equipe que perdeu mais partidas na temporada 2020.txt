@@ -1,0 +1,10 @@
+127.0.0.1/nba/vinte/		http://localhost/phpmyadmin/index.php?route=/table/sql&db=nba&table=vinte
+
+   A mostrar registos de 0 -  0 (1 total, A consulta demorou 0,0073 segundos.) [L: 48... - 48...]
+
+
+SELECT * FROM vinte ORDER BY L DESC LIMIT 1;
+
+
+
+1610612744	Warriors	0	22019	2020-03-01	West	Golden State	61	13	48	213	7-24	6-24	

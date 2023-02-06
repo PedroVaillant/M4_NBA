@@ -1,0 +1,10 @@
+127.0.0.1/nba/vinte/		http://localhost/phpmyadmin/index.php?route=/table/sql&db=nba&table=vinte
+
+   A mostrar registos de 0 -  0 (1 total, A consulta demorou 0,0051 segundos.)
+
+
+select count(SEASON_ID) from vinte;
+
+
+
+3960	

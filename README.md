@@ -26,3 +26,6 @@
 <ul>select count(SEASON_ID) from vinte;</ul>
 <li>Quantas partidas o time Milwaukee fez em 2020? </li>
 <ul>select count(SEASON_ID) from vinte where TEAM = 'Milwaukee';</ul>
+
+<h1> Modelagem dos Dados</h1>
+<img width="600px" height="300px" src="./Banco de Dados/Modelagem de dados.jpeg">

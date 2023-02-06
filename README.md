@@ -30,5 +30,5 @@
 
 <div align="center" style="display: inline_block">
 <h1> Modelagem dos Dados</h1>
-<img width="600px" height="300px" src="./bancoDeDados/modelagemDados.jpg">
+<img src="./bancoDeDados/modelagemDados.jpg">
 </div>
